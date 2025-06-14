@@ -41,12 +41,12 @@ A responsive and interactive **Bus Ticket Booking System** built with HTML, CSS,
 
 ## 📁 Project Structure
 
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│ ├── main.c
-│ ├── main.exe
+├── index.html<br>
+├── style.css<br>
+├── script.js<br>
+├── assets/<br>
+│ ├── main.c<br>
+│ ├── main.exe<br>
 
 
 ## 🎨 UI Highlights
