@@ -8,6 +8,12 @@ A responsive and interactive **Bus Ticket Booking System** built with HTML, CSS,
 
 ---
 
+## 🔐 User Credentials
+
+- Username - user
+- Password - pass
+
+
 ## 🚀 Features
 
 - 🔐 **User Login System**
@@ -76,8 +82,4 @@ A responsive and interactive **Bus Ticket Booking System** built with HTML, CSS,
 - Optimized for both desktop and mobile views
 - Media queries for smaller screens (adjusts seat size/layout)
 
-## 🔐 User Credentials
-
-- Username - user
-- Password - pass
 
