@@ -176,11 +176,11 @@ body {
 }
 
 .heading-title {
-    font-size: 3.5rem;
+    font-size: 4 rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: black;
     font-weight: 700;
     text-align: center;
-    margin-top: 40px; /* Add space from top */
+    margin-top: 100px; /* Add space from top */
 }
 
