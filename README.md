@@ -55,6 +55,14 @@ A responsive and interactive **Bus Ticket Booking System** built with HTML, CSS,
 │ ├── main.c # Original C-based version<br>
 │ ├── main.exe # Executable (optional)<br>
 
+---
+
+## 🧾 Legacy Version (C)
+
+The `assets/main.c` file contains an earlier **console-based C implementation** of the Bus Ticket Booking System. This web version was developed as an evolution of that project, bringing the same core features into a modern browser-based UI.
+
+- Includes logic for seat booking, cancellation, and status board
+- Run using any standard C compiler (e.g., `gcc main.c -o main`)
 
 ## 🎨 UI Highlights
 
