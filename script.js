@@ -1,11 +1,11 @@
 // Bus routes data
 const busRoutes = [
-    "Cardiff Express",
-    "Belfast Express", 
-    "Derby Express",
-    "Chester Express",
-    "Newport Express",
-    "Truro Express"
+    "BlueOrbit Travels",
+    "Bengal Express", 
+    "Riverline Express",
+    "FusionFleet",
+    "Coastal Cruiser",
+    "MetroLink Express"
 ];
 
 // Global variables
