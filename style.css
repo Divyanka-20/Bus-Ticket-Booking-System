@@ -130,10 +130,11 @@ body::before {
 }
 
 #mainApp {
-    background: transparent;
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
     min-height: 100vh;
     padding-bottom: 50px;
 }
+
 
 .booking-summary {
     background-color: #e8f5e8;
@@ -194,5 +195,10 @@ body::before {
     font-weight: 700;
     text-align: center;
     margin-top: 100px; /* Add space from top */
+}
+
+footer {
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    color: #000;
 }
 
