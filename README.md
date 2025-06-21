@@ -4,7 +4,7 @@ A responsive and interactive **Bus Ticket Booking System** built with HTML, CSS,
 
 🌐 **Live Demo**: [Bus Ticket Booking Web App](https://bus-ticket-booking-system-m044.onrender.com/)
 
-📱 The application is fully responsive and functions seamlessly across devices.
+📱 Fully responsive — works seamlessly across desktop, tablet, and mobile devices.
 
 ---
 
@@ -12,6 +12,7 @@ A responsive and interactive **Bus Ticket Booking System** built with HTML, CSS,
 
 - Username - user
 - Password - pass
+> *(Stored in `localStorage`; feel free to modify `script.js` for new users.)*
 
 
 ## 🚀 Features
@@ -51,8 +52,8 @@ A responsive and interactive **Bus Ticket Booking System** built with HTML, CSS,
 ├── style.css<br>
 ├── script.js<br>
 ├── assets/<br>
-│ ├── main.c<br>
-│ ├── main.exe<br>
+│ ├── main.c # Original C-based version<br>
+│ ├── main.exe # Executable (optional)<br>
 
 
 ## 🎨 UI Highlights
@@ -73,7 +74,8 @@ A responsive and interactive **Bus Ticket Booking System** built with HTML, CSS,
 - **CSS3** with custom styling and gradients
 - **JavaScript (ES6)**
 - **Bootstrap 5**
-- **C Programming**
+- **Font Awesome** (for icons)
+- **C Programming** (original base logic ported from C)
 
 ---
 
